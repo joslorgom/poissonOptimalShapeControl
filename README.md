@@ -335,17 +335,6 @@ Different starting shapes can be tested as well,
     <img src="figs/RBF_s2_S_R_R1.gif" width="400" height="300">
 </p>
 
-
-## Author
-
-* **Jose Lorenzo Gomez**
-
-## Acknowledgments
-
-This project has received funding from the European Research Council (ERC) under the European  Union’s Horizon 2020 research and innovation programme (grant agreement No. 694126-DyCon).
- 
-[DyCon Webpage](http://cmc.deusto.eus/dycon/)
-
 ## References
 
 * O. Pironneau. _Optimal shape design for elliptic systems_. Springer Science & Business Media, 2012.
